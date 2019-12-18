@@ -3,3 +3,6 @@
 ################################################################################
 
 /.vs/Dotnet.GRPC/v16
+/src/Dotnet.GRPC.Application/bin/Debug/netcoreapp3.0
+/src/Dotnet.GRPC.Application/obj
+/.vs/Dotnet.GRPC/DesignTimeBuild
